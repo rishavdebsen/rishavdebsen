@@ -12,6 +12,24 @@ Based in Bengaluru. Previously a Data Associate at Wipro. Open to Data Analyst, 
 
 ---
 
+## Professional experience
+
+**Data Associate · Wipro | Jan 2025 - Feb 2026**
+
+Supported reporting and dashboards for a multinational transportation client.
+
+- Automated reporting workflows with Excel VBA and Python, reducing report turnaround by 30%.
+- Built Power BI dashboards for cross-functional and global stakeholders.
+- Applied controls validation and documented reconciliation rules to improve reporting quality.
+
+## How I approach a project
+
+**Business question → Data checks → Analysis → Dashboard or application → Findings and limitations**
+
+I aim to make each repository easy to review: explain the problem, show the result, document how to run it, and be clear about what has and has not been tested.
+
+---
+
 ## Explore my projects
 
 [Investor Intelligence](#ai-powered-investor-intelligence-platform) · [Invoice ML](#vendor-invoice-intelligence) · [Power BI Dashboard](#blinkit-grocery-sales-dashboard)
@@ -97,7 +115,6 @@ An interactive Power BI dashboard for exploring sales by product category, outle
 
 ## About me
 
-- At Wipro, I worked on reporting automation, data-quality controls, and Power BI dashboards for a multinational transportation client.
 - In my projects, I use SQL and Python to prepare data, compare models, and build interactive tools.
 - My interests sit at the intersection of business intelligence, automation, and practical AI applications.
 
@@ -121,22 +138,6 @@ An interactive Power BI dashboard for exploring sales by product category, outle
 | Application projects | FastAPI, Streamlit, retrieval-based document Q&A, Mixpanel event tracking |
 
 **Project focus:** document retrieval and RAG architecture in Investor Intelligence; regression, classification, and model evaluation in Vendor Invoice Intelligence. These are portfolio projects, separate from my Wipro experience.
-
-## Professional experience
-
-**Data Associate · Wipro | Jan 2025 - Feb 2026**
-
-Supported reporting and dashboards for a multinational transportation client.
-
-- Automated reporting workflows with Excel VBA and Python, reducing report turnaround by 30%.
-- Built Power BI dashboards for cross-functional and global stakeholders.
-- Applied controls validation and documented reconciliation rules to improve reporting quality.
-
-## How I approach a project
-
-**Business question → Data checks → Analysis → Dashboard or application → Findings and limitations**
-
-I aim to make each repository easy to review: explain the problem, show the result, document how to run it, and be clear about what has and has not been tested.
 
 ## Connect
 
